@@ -7,12 +7,12 @@
 
 ## Types of Network Topology
 * Bus, Star, Ring, and Mesh
-* Tree, and Hybrid
+* Tree and Hybrid
 
 ## Transmission Modes
 * Simplex
-* Half-duplex, and Full-duplex
+* Half-duplex and Full-duplex
     
 ## Types of Computer Network
-* PAN, and LAN
-* MAN, and WAN
+* PAN and LAN
+* MAN and WAN
