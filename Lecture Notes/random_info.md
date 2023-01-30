@@ -27,6 +27,18 @@ Bus topology
 Bus topology is the easiest and cheapest type of topology to install. With a one-to-one ratio of devices to drop lines, this topology requires less cable than other topologies, reducing the installation time and expenses. Adding new devices to the network is also straightforward.
 
 
+## Is hub works in full-duplex mode?
+If more than one device can talk at once it is called Full Duplex. A hub is always Half Duplex, so only one device at a time can communicate. A switch can handle Full Duplex communication, so multiple computers can talk with each other simultaneously through a switch.
+
+## What is hub and types of hub?
+The three types are active, passive and intelligent. Active hubs amplify the incoming electric signal, whereas passive hubs do not amplify the electric signal. Intelligent hubs are kind of active hubs.
+
+## What is a functuion of Layer 3 switch?
+* support routing between VLANs
+* separate ports into virtual LANs (VLANs) and perform the routing between them.
+* https://www.networkacademy.io/ccna/ethernet/vlan-concept
+
+
 
 
 
