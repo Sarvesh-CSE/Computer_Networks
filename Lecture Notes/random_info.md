@@ -39,6 +39,14 @@ The three types are active, passive and intelligent. Active hubs amplify the inc
 * https://www.networkacademy.io/ccna/ethernet/vlan-concept
 
 
+1. Wi-Fi Router (Home or Small Offices with internet connection)
+2. Wireless Access Point (Medium/large organisations) => Multiple APs can be managed by a single router.
+3. If you want to have multiple wi-fi routers connected with a main router, it will work, but manageability is going to be the headache as configuration need to be updated at every point. 
+4. Wireless APs => only for wireless devices; no firewall; does not support DHCP service; does not have a WAN port; to further extend network's existing wireless signal
+5. Wi-Fi Router => for both wired/ wireless devices; firewall exist; DHCP service supported; has a WAN (internet) port.
+
+
+
 
 
 
